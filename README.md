@@ -43,14 +43,16 @@ We will handle this problem in a structured way. We will be following the table 
 ## Reference
 
 ### Problem Statements
+
 - Hypothesis Generation
   <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top: 10px; margin-bottom:10px; border-radius: 7px;">
         <a href="https://www.analyticsvidhya.com/blog/2020/09/hypothesis-generation-data-science-projects#:~:text=Hypothesis%20generation%20is%20an%20educated,generated%20based%20on%20any%20evidence."><img alt="" src="https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo_square_v2.jpg" align="left"; style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://www.analyticsvidhya.com/blog/2020/09/hypothesis-generation-data-science-projects#:~:text=Hypothesis%20generation%20is%20an%20educated,generated%20based%20on%20any%20evidence." style="padding-left: 10px; ">Hypothesis Generation for Data Science Projects</a>
 </div>
 
    <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top:10px; margin-bottom:10px; border-radius: 7px;">
-    <a href="https://vitalflux.com/data-science-how-to-formulate-hypothesis-for-hypothesis-testing" ><img alt="" src="https://vitalflux.com/wp-content/uploads/2018/10/cropped-vitalflux-192x192.png" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://vitalflux.com/data-science-how-to-formulate-hypothesis-for-hypothesis-testing" style="padding-left: 10px; ">Hypothesis Testing Explained with Examples - Data Analytics</a>
+      <a href="https://vitalflux.com/data-science-how-to-formulate-hypothesis-for-hypothesis-testing" ><img alt="" src="https://vitalflux.com/wp-content/uploads/2018/10/cropped-vitalflux-192x192.png" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://vitalflux.com/data-science-how-to-formulate-hypothesis-for-hypothesis-testing" style="padding-left: 10px; ">Hypothesis Testing Explained with Examples - Data Analytics</a>
 </div>    
+    
     
 - Loading Packages and Data
 
@@ -62,6 +64,7 @@ We will handle this problem in a structured way. We will be following the table 
     <a href="https://www.kdnuggets.com/2020/08/5-different-ways-load-data-python.html" ><img alt="" src="https://www.kdnuggets.com/wp-content/themes/kdn17/images/favicon.ico" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://www.kdnuggets.com/2020/08/5-different-ways-load-data-python.html" style="padding-left: 10px; ">5 Different Ways to Load Data in Python - KDnuggets</a>
 </div> 
     
+    
 - Data Structure and Content
 
   <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top: 10px; margin-bottom:10px; border-radius: 7px;">
@@ -72,7 +75,9 @@ We will handle this problem in a structured way. We will be following the table 
     <a href="https://www.districtdatalabs.com/data-exploration-with-python-1" ><img alt="" src="https://images.squarespace-cdn.com/content/v1/55fdfa38e4b07a55be8680a4/1584138675353-BE5G7VJRAC70PPRG4MFR/favicon.ico?format=100w" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://www.districtdatalabs.com/data-exploration-with-python-1" style="padding-left: 10px; ">Data Exploration with Python, Part 1 | District Data Labs</a>
 </div> 
 
+
 ### Data Analysis And Preprocessing
+
 - Exploratory Data Analysis
 
   <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top: 10px; margin-bottom:10px; border-radius: 7px;">
@@ -82,6 +87,7 @@ We will handle this problem in a structured way. We will be following the table 
    <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top:10px; margin-bottom:10px; border-radius: 7px;">
     <a href="https://medium.com/swlh/exploratory-data-analysis-eda-from-scratch-in-python-8c12c2673aa7" ><img alt="" src="https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://medium.com/swlh/exploratory-data-analysis-eda-from-scratch-in-python-8c12c2673aa7" style="padding-left: 10px; ">Exploratory-Data-Analysis(EDA) from Scratch | With Python Implementation</a>
 </div> 
+
 
    
 - Univariate Analysis
@@ -94,6 +100,7 @@ We will handle this problem in a structured way. We will be following the table 
     <a href="https://www.statology.org/univariate-analysis-in-python" ><img alt="" src="https://www.statology.org/wp-content/uploads/2019/08/cropped-StatologyFavicon-192x192.png" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://www.statology.org/univariate-analysis-in-python" style="padding-left: 10px; ">How to Perform Univariate Analysis in Python (With Examples) - Statology</a>
 </div> 
 
+
 - Bivariate Analysis
 
   <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top: 10px; margin-bottom:10px; border-radius: 7px;">
@@ -104,6 +111,8 @@ We will handle this problem in a structured way. We will be following the table 
     <a href="https://www.statology.org/bivariate-analysis-in-python" ><img alt="" src="https://www.statology.org/wp-content/uploads/2019/08/cropped-StatologyFavicon-192x192.png" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://www.statology.org/bivariate-analysis-in-python" style="padding-left: 10px; ">How to Perform Bivariate Analysis in Python (With Examples) - Statology</a>
 </div> 
 
+
+
 - Missing Value Treatment
 
   <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top: 10px; margin-bottom:10px; border-radius: 7px;">
@@ -113,6 +122,7 @@ We will handle this problem in a structured way. We will be following the table 
    <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top:10px; margin-bottom:10px; border-radius: 7px;">
     <a href="https://machinelearningmastery.com/handle-missing-data-python" ><img alt="" src="https://machinelearningmastery.com/wp-content/uploads/2016/09/cropped-icon-192x192.png" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://machinelearningmastery.com/handle-missing-data-python" style="padding-left: 10px; ">How to Handle Missing Data with Python - Machine Learning Mastery</a>
 </div> 
+
 
 - Feature Engineering
 
@@ -128,6 +138,7 @@ We will handle this problem in a structured way. We will be following the table 
     <a href="https://towardsdatascience.com/feature-engineering-in-python-part-i-the-most-powerful-way-of-dealing-with-data-8e2447e7c69e" ><img alt="" src="https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://towardsdatascience.com/feature-engineering-in-python-part-i-the-most-powerful-way-of-dealing-with-data-8e2447e7c69e" style="padding-left: 10px; ">Feature Engineering in Python Part I: The Most Powerful way of Dealing with Data.</a>
 </div> 
 
+
 - Encoding Categorical Variables
 
   <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top: 10px; margin-bottom:10px; border-radius: 7px;">
@@ -137,6 +148,7 @@ We will handle this problem in a structured way. We will be following the table 
    <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top:10px; margin-bottom:10px; border-radius: 7px;">
     <a href="https://pbpython.com/categorical-encoding.html" ><img alt="" src="https://pbpython.com/android-chrome-192x192.png" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://pbpython.com/categorical-encoding.html" style="padding-left: 10px; ">Guide to Encoding Categorical Values in Python</a>
 </div> 
+
 
 - Label Encoding
 
@@ -148,6 +160,7 @@ We will handle this problem in a structured way. We will be following the table 
     <a href="https://www.mygreatlearning.com/blog/label-encoding-in-python" ><img alt="" src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2021/03/26162609/GL-Icon_16x16.png" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://www.mygreatlearning.com/blog/label-encoding-in-python" style="padding-left: 10px; ">Label Encoding in Python Explained</a>
 </div> 
 
+
 - One Hot Encoding
 
   <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top: 10px; margin-bottom:10px; border-radius: 7px;">
@@ -157,6 +170,7 @@ We will handle this problem in a structured way. We will be following the table 
    <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top:10px; margin-bottom:10px; border-radius: 7px;">
     <a href="https://stackabuse.com/one-hot-encoding-in-python-with-pandas-and-scikit-learn" ><img alt="" src="https://stackabuse.com/assets/images/favicon.ico" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://stackabuse.com/one-hot-encoding-in-python-with-pandas-and-scikit-learn" style="padding-left: 10px; ">One-Hot Encoding in Python with Pandas and Scikit-Learn</a>
 </div> 
+
 
 - PreProcessing Data
 
@@ -168,7 +182,10 @@ We will handle this problem in a structured way. We will be following the table 
     <a href="https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python" ><img alt="" src="https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python" style="padding-left: 10px; ">ML | Data Preprocessing in Python - GeeksforGeeks</a>
 </div> 
 
+
 ### Modeling
+
+
 - Linear Regression
   <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top: 10px; margin-bottom:10px; border-radius: 7px;">
         <a href="https://www.analyticsvidhya.com/blog/2022/02/linear-regression-with-python-implementation"><img alt="" src="https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo_square_v2.jpg" align="left"; style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://www.analyticsvidhya.com/blog/2022/02/linear-regression-with-python-implementation" style="padding-left: 10px; ">Linear Regression with Python Implementation - Analytics Vidhya</a>
@@ -189,6 +206,7 @@ We will handle this problem in a structured way. We will be following the table 
     <a href="https://towardsdatascience.com/ml-from-scratch-linear-polynomial-and-regularized-regression-models-725672336076" ><img alt="" src="https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://towardsdatascience.com/ml-from-scratch-linear-polynomial-and-regularized-regression-models-725672336076" style="padding-left: 10px; ">ML From Scratch: Linear, Polynomial, and Regularized Regression Models</a>
 </div> 
 
+
 - RandomForest
 
   <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top: 10px; margin-bottom:10px; border-radius: 7px;">
@@ -198,6 +216,7 @@ We will handle this problem in a structured way. We will be following the table 
    <div style="color:black; font-weight:300; font-size:15px; padding: 20px; border: 1px solid #e7ebe8; margin-top:10px; margin-bottom:10px; border-radius: 7px;">
     <a href="https://towardsdatascience.com/a-practical-guide-to-implementing-a-random-forest-classifier-in-python-979988d8a263" ><img alt="" src="https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" align="left" style="width: 32px; height: 32px; border-radius: 4px;"></a> <a href="https://towardsdatascience.com/a-practical-guide-to-implementing-a-random-forest-classifier-in-python-979988d8a263" style="padding-left: 10px; ">A Practical Guide to Implementing a Random Forest Classifier in Python</a>
 </div> 
+
 
 - XGBoost
 
